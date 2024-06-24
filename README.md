@@ -13,8 +13,8 @@ _**Include all necessary information only as per the given format.**_
 
 ### Eligibility:
   - All nationalities, genders, and age groups are welcome to participate in the projects.
-  - Everyone is eligible for winning Womanium awards.
-  - 2 best participants will be selected for Womanium QSL fellowships with Fraunhofer ITWM.
+  - Everyone is eligible to participate in this project and win Womanium grants.
+  - Everyone is eligible for Womanium QSL fellowships with Fraunhofer.
   - All successful project submissions earn the Womanium Project Certificate.
 
 ### Project Description:
