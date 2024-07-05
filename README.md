@@ -15,12 +15,12 @@ _**Include all necessary information only as per the given format.**_
   - All nationalities, genders, and age groups are welcome to participate in the projects.
   - All team participants must be enrolled in Womanium Quantum+AI 2024.
   - Everyone is eligible to participate in this project and win Womanium grants.
-  - Everyone is eligible for Womanium QSL fellowships with Fraunhofer.
   - All successful project submissions earn the Womanium Project Certificate.
+  - Best participants win Womanium QSL fellowships with Fraunhofer ITWM. Please review the eligibility criteria for QSL fellowships in the project description below.
 
 ### Project Description:
   - Click [here](https://drive.google.com/file/d/1AcctFeXjchtEhYzPUsHpP_b4HGlI4kq9/view?usp=sharing) to view the project description.
-  - YouTube recording of the project description - [link]()
+  - YouTube recording of the project description - [link](https://youtu.be/Ac1ihFcTRTc?si=i6AIVfQQh8ymYQYp)
 
 ## Project Submission:
 All information in this section will be considered for project submission and judging.
