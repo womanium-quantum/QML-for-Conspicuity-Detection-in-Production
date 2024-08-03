@@ -37,12 +37,12 @@ Team Member 1: _(full name)_
  - Nationality:
  - Current affiliation:
 
-Team Member 2: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+Team Member 2: Shreyas Patil
+ - Email: shreyas.rp56@gmail.com
+ - Discord ID: glorious_purpose
+ - GitHub ID: shreyas-p56
+ - Nationality: Indian
+ - Current affiliation: None
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
