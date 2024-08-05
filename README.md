@@ -31,11 +31,11 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+ - Email: itsronit2002@gmail.com
+ - Discord ID: ronitd_1
+ - GitHub ID: ronitd2002
+ - Nationality: Indian
+ - Current affiliation: Indian Institute of Technology, Kharagpur
 
 Team Member 2: Shreyas Patil
  - Email: shreyas.rp56@gmail.com
