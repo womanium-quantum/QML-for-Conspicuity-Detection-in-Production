@@ -33,18 +33,17 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Shivansh Malviya
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-JORMC4Fu5EEE5Gu
 
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Sujith M
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-J3JyoM24UIIXZRo
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+Our solution "welding classification" include the classical machine learning model to classify the multiclass dataset and we have tried to integrate qnn onto our model in "qml-classification" but we found some issues in achieving it. Our main solution is "welding classification" notebook.
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
