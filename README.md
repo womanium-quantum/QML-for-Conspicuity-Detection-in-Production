@@ -33,21 +33,50 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Betül Gül
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-zlmRFieHjeFCWok
 
 
-Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+Team Member 2: 
+ - Full Name: Jessica Omuna Anabor 
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-WStowgJdXd9cc0i
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+
+### Step 1: Familiarization with PennyLane and JAX
+
+Initially, you need to familiarize yourself with PennyLane and its integration with JAX. To do this:
+
+Review the documentation and tutorial materials for PennyLane and JAX.
+Implement and present the PennyLane x JAX tutorial.
+
+### Step 2: Implementing Quantum Neural Networks (QNNs)
+
+We will tackle Quantum Neural Networks (QNNs) with different scaling approaches. In this step:
+
+Develop QNN prototypes using PennyLane and JAX.
+Present the results using standard metrics (accuracy, precision, recall, F1 score) and visualization techniques.
+
+### Step 3: Benchmarking Against Classical Methods
+
+Finally, we will compare the performance of hybrid quantum algorithms with classical machine learning and statistical methods:
+
+Benchmark the hybrid quantum algorithms against classical methods.
+Visualize and compare the performance metrics.
+
+### Dataset
+We will be using the Detecting Anomalies in Wafer Production dataset as another implementation for Task 3 (QNNs). This unique dataset is crucial as the semiconductor industry is heavily invested in improving wafer production processes, positioning our project at the forefront of advancements in this sector.
+
+### Results
+
+Detailed results and visualizations will be available in the results directory.
+Standard metrics used for evaluation include accuracy, precision, recall, and F1-score.
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
+
+https://www.canva.com/design/DAGNFQPk_jg/KP7mG-XLC4L2ta6g9nh4-w/view?utm_content=DAGNFQPk_jg&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
